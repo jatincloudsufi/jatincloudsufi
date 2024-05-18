@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+I am Jatin and I am a GCP Cloud and DevOps Engineer at [Cloudsufi](https://cloudsufi.com).
+
+
 <!--
 **jatincloudsufi/jatincloudsufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are my GitHub [stats](https://github-readme-stats.vercel.app/api?username=jatincloudsufi&show_icons=true&count_private=true&theme=default):
+
+![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatincloudsufi&show_icons=true&count_private=true&theme=default)
